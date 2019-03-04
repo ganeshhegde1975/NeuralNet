@@ -1,0 +1,2 @@
+# NeuralNet
+Learnings on Backpropogation
